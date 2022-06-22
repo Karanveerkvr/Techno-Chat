@@ -1,14 +1,14 @@
 <?php 
 
 # server name
-$sName = "sql208.epizy.com";
+$sName = "#";
 # user name
-$uName = "epiz_31680988";
+$uName = "#";
 # password
-$pass = "SkA90esKAnFLUyG";
+$pass = "#";
 
 # database name
-$db_name = "epiz_31680988_chatapp";
+$db_name = "#";
 
 #creating database connection
 try {
